@@ -1,0 +1,9 @@
+Mailster - Dead Simple Mailing List Management
+
+Mailster is an ultra-barebones mailing list manager written in PHP.  It is intended to solve a minimal number of needs with as few dependencies as possible.  It requires PHP, but no database.
+
+Mailster allows you create mailing lists of various addresses (which are saved as text files, so no database dependency), then send mail to those addresses via BCC.  It's incredibly simple and utterly unstyled in order to convey the simpleness.
+
+The scripts do no validation whatsoever.  Ensure that you enter valid email addresses and names for all fields.
+
+It also offers absolutely no security.  You are expected to password protect access to the script via .htaccess files or similar security.

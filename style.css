@@ -1,0 +1,18 @@
+HTML, BODY {
+	font-family: Tahoma, Sans-Serif;
+	font-size: 90%;
+}
+
+TABLE {
+	font-size: 90%;
+}
+
+TABLE INPUT {
+	width: 100%;
+}
+
+TABLE TD {
+	vertical-align: top;
+	text-align: right;
+	padding-top: .4em;
+}
